@@ -9,7 +9,7 @@ Written in pure C# with **zero external dependencies** — no OpenTK, no GLFW,
 no GLM. The Win32 window, the WGL context and every OpenGL 3.3 Core entry point
 are bound by hand via P/Invoke.
 
-![attractor](docs/preview.png)
+![attractor](screenshot.png)
 
 ## Highlights
 
